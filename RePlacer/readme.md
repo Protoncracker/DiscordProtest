@@ -22,8 +22,8 @@ Discord enforces restrictions on text formatting, making it difficult to express
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/text-freedom-tool.git
-cd text-freedom-tool
+git clone https://github.com/Protoncracker/discord_fucker
+cd discord_fucker/RePlacer
 python replacer.py
 ```
 

@@ -20,7 +20,6 @@ This repository contains various tools and scripts that aim to:
 
 ### Planned Tools
 - Emoji Freedom - Use any emoji anywhere
-- Style Bypass - Format text however you want
 - More coming soon...
 
 ## ⚖️ Philosophy
