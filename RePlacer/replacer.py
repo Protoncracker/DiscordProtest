@@ -3,9 +3,9 @@ from typing import Dict
 __version__ = "1.0.0"
 __author__ = "ProtonCracker"
 __license__ = "Private - All Rights Reserved"
-__copyright__ = "Copyright © 2024 ProtonCracker™"
+__copyright__ = "Copyright © 2025 ProtonCracker™"
 __maintainer__ = "ProtonCracker"
-__email__ = "protoncracker@example.com"
+__email__ = "tryme.freefall963@passinbox.com"
 __status__ = "Production"
 __all__ = ['define_special_style', 'create_replacements', 'replace_text']
 __description__ = """
@@ -36,7 +36,7 @@ __description__ = """
 
 𝗙𝗨𝗖𝗞 𝗗𝗜𝗦𝗖𝗢𝗥𝗗!!!
 
-Copyright © 2024 ProtonCracker™ - All rights reserved
+Copyright © 2025 ProtonCracker - All rights reserved
 """
 
 def define_special_style() -> Dict[str, str]:
@@ -56,7 +56,7 @@ def create_replacements(special_style: Dict[str, str]) -> Dict[str, str]:
     replacements = {}
     # Map lowercase letters to their special style equivalents.
     lowercase = "abcdefghijklmnopqrstuvwxyz"
-    for original, replacement in zip(lowercase, special_style['mathematical bold italic lowercase']):
+    for original, replacement in zip(lowercase, special_style['mathematical bold fraktur lowercase']):
         replacements[original] = replacement
 
     # Map uppercase letters to their special style equivalents.
