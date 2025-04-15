@@ -22,8 +22,8 @@ Discord enforces restrictions on text formatting, making it difficult to express
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/Protoncracker/discord_fucker
-cd discord_fucker/RePlacer
+git clone https://github.com/Protoncracker/DiscordProtest
+cd DiscordProtest/RePlacer
 python replacer.py
 ```
 
@@ -49,7 +49,7 @@ This tool is created as a form of protest against platform restrictions. Use res
 
 ```
 Private - All Rights Reserved
-Copyright © 2024 ProtonCracker™
+Copyright © 2024~2025 ProtonCracker™
 
 Will soon be using a more free license. Temporary solution.
 ```
